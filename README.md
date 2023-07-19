@@ -11,6 +11,7 @@ This repository showcases my skills and projects in MySQL. You will find various
 - SQL JOINS
 - SQL SUBQUERIES
 - SQL SELF JOIN
+- SQL WINDOW Functions ROW_NUMBER,RANK(),DENSE_RANK(),LEAD(),LAG()
 - SQL COMMON TABLE Expressions (CTES)
 - SQL Temporary Tables
 - Combining SQL and Tableau
